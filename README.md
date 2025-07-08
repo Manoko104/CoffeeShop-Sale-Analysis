@@ -14,12 +14,17 @@ Summary of findings;
 Tools & Technology used;
 
 1.Miro
+
 2.SQL (standard)
+
 3.Snowflake Cloud Platform
-4.MS Excel 
+
+4.MS Excel
+
 5.Canva
 
 Recommendation;
+
 1.  Improve weekend sales performance (Saturdays and Sundays)
 2.  Initiatives to drive packaged chocolate sales
 3.  Identify strategies to engage low-spending customers
