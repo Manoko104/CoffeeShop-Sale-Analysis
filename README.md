@@ -8,17 +8,17 @@ growth-oriented decisions that drive business performance and operational excell
 
 - 💰Revenue growth per month,
   
-  _🎉Jan 12%_
+  _Jan 12%_
 
-  _❤️Feb 11%_
+  _Feb 11%_
   
-  _🌧️Mar 14%_
+  _Mar 14%_
   
-  _☔Apr 17%_
+  _Apr 17%_
   
-  _🍁May 22%_
+  _May 22%_
   
-  _❄️Jun 24%_
+  _Jun 24%_
 
   	
 - 📦Product sales per store location;
