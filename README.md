@@ -39,15 +39,15 @@ growth-oriented decisions that drive business performance and operational excell
 
 **🛠️Tools & Technology used**
 
-- Miro
+- Miro🧠
 
-- SQL (standard)
+- SQL🗄️ (standard)
 
-- Snowflake Cloud Platform
+- Snowflake ❄️Cloud Platform
 
-- MS Excel
+- MS📊 Excel
 
-- Canva
+- Canva🎨
 
 **💡Recommendation**
 
