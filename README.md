@@ -4,28 +4,54 @@ The repository provides a comprehensive analysis of coffee shop sales across thr
 The Objective is to transform raw data into strategic insights, enabling the new CEO to make informed,
 growth-oriented decisions that drive business performance and operational excellence.
 
-Summary of findings;
+**📚Summary of findings**
 
-1. Revenue growth per month,   
-2. Product performance per store,  
-3. Total revenue categorized by customer spending brackets,
-4. Sales distribution across different times of the day.
+- 💰Revenue growth per month,
+  
+  _🎉Jan 12%_
 
-Tools & Technology used;
+  _❤️Feb 11%_
+  
+  _🌧️Mar 14%_
+  
+  _☔Apr 17%_
+  
+  _🍁May 22%_
+  
+  _❄️Jun 24%_
 
-1.Miro
+  	
+- 📦Product sales per store location;
+  
+  _Coffee is the top-performing product category, contributing 41.6% of total sales (R178,500)_
+  
+  _Packaged Chocolate (0.2%), These may require targeted promotions or a review of product placement_
+  
+- 🛍️Total revenue categorized by customer spending brackets;
+  
+  _Medium spenders dominate, contributing 67% of the total revenue — this segment is the business's core revenue driver_
+  
+- 🔢Units sold per 	📅week Vs per 🏬store;
+  
+  _Sales are fairly evenly distributed throughout the week, with all days between 13.81% and 14.56% — only a 0.75% spread.
 
-2.SQL (standard)
+  _ Saturday has the lowest percentage of sales (13.81%), slightly below average — this may indicate lower traffic or purchasing behavior on weekends.
 
-3.Snowflake Cloud Platform
+**🛠️Tools & Technology used**
 
-4.MS Excel
+- Miro
 
-5.Canva
+- SQL (standard)
 
-Recommendation;
+- Snowflake Cloud Platform
 
-1.  Improve weekend sales performance (Saturdays and Sundays)
-2.  Initiatives to drive packaged chocolate sales
-3.  Identify strategies to engage low-spending customers
-4.  Explore opportunities to boost evening sales
+- MS Excel
+
+- Canva
+
+**💡Recommendation**
+
+-  Themed promotions or limited-edition products for the month of february.
+-  Initiatives to drive packaged chocolate sales.
+-  Identify strategies to engage low-spending customers and explore opportunities to boost evening sales.
+-  Improve weekend sales performance (Saturdays and Sundays)
