@@ -1,7 +1,7 @@
 # CoffeeShop-Sale-Analysis
 
 The repository provides a comprehensive analysis of coffee shop sales across three distinct locations for the period of January to June 2003. 
-The Objective as Junior Data Analyst is to transform raw data into strategic insights, enabling the new CEO to make informed,
+The Objective as a Junior Data Analyst is to transform raw data into strategic insights, enabling the new CEO to make informed,
 growth-oriented decisions that drive business performance and operational excellence.
 
 **📚Summary of findings**
