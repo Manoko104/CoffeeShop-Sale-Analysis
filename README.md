@@ -21,17 +21,17 @@ growth-oriented decisions that drive business performance and operational excell
   _Jun 24%_
 
   	
-- 📦Product sales per store location;
+- 📦Product sales per store location;-
   
   _Coffee is the top-performing product category, contributing 41.6% of total sales (R178,500)_
   
   _Packaged Chocolate (0.2%), These may require targeted promotions or a review of product placement_
   
-- 🛍️Total revenue categorized by customer spending brackets;
+- 🛍️Total revenue categorized by customer spending brackets;-
   
   _Medium spenders dominate, contributing 67% of the total revenue — this segment is the business's core revenue driver_
   
-- 🔢Units sold per 	📅week Vs per 🏬store;
+- 🔢Units sold per 	📅week Vs per 🏬store;-
   
   _Sales are fairly evenly distributed throughout the week, with all days between 13.81% and 14.56% — only a 0.75% spread.
 
@@ -48,6 +48,7 @@ growth-oriented decisions that drive business performance and operational excell
 - MS📊 Excel
 
 - Canva🎨
+  
 
 **💡Recommendation**
 
@@ -55,5 +56,5 @@ growth-oriented decisions that drive business performance and operational excell
 -  Initiatives to drive packaged chocolate sales.
 -  Identify strategies to engage low-spending customers and explore opportunities to boost evening sales.
 -  Improve weekend sales performance (Saturdays and Sundays)
--  please commit
+  
 
