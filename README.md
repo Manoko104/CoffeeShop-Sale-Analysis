@@ -55,6 +55,6 @@ growth-oriented decisions that drive business performance and operational excell
 -  Themed promotions or limited-edition products for the month of february.
 -  Initiatives to drive packaged chocolate sales.
 -  Identify strategies to engage low-spending customers and explore opportunities to boost evening sales.
--  Improve weekend sales performance (Saturdays and Sundays)
-- d ad dada da da 
+-  Improved weekend sales performance (Saturdays and Sundays)
+  
 
